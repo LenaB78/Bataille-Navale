@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May  5 10:21:16 2021
-
-@author: lenab
-"""
-
 
 
 import random
